@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 - 🤔 I’m looking for help with advanced machine learning algorithms.
 - 💬 Ask me about anything related to software development.
 - 📫 How to reach me: [karthikeyantc22@gmail.com](mailto:karthikeyantc22@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## My Skills
 
