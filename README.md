@@ -124,8 +124,6 @@ Built a personal productivity app that uses **Google Gemini** (via Genkit) to co
 - 🏆 **Tech Trailblazer Award** — Toolagen Technology Services (Apr 2025)
 - 🎓 **MCA** — PSNA College of Engineering and Technology (GPA: 8.9)
 - ☁️ **3 Microsoft Applied Skills** certifications across AI, security, and web development
-- 🔗 500+ LinkedIn connections · 698 followers
-
 ---
 
 <p align="center">
